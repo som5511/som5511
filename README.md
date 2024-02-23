@@ -19,8 +19,8 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" /> GitHub Stats:
 
-<a href="https://github.com/som5511/github-readme-stats"><img alt="Sidharth's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sidharth200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450" /></a>
-  <a href="https://github.com/som5511/github-readme-stats"><img alt="Som Deo Singh's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sidharth200&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width ="350" /></a>
+<a href="https://github.com/som5511/github-readme-stats"><img alt="Sidharth's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=som5511&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450" /></a>
+  <a href="https://github.com/som5511/github-readme-stats"><img alt="Som Deo Singh's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=som5511&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width ="350" /></a>
 
 
 
