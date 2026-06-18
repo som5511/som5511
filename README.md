@@ -1,27 +1,125 @@
- <h1 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Som Deo Singh</h1>
-<h3 align="center">Fullstack Developer .</h3>
+<h1 align="center">Hi 👋, I'm Som Deo Singh</h1>
 
-<img align = "right" alt = coding man width = "400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f0af47edseaysj8x2nmu22sd7cp99nuoa73be9g7&rid=giphy.gif&ct=g">
+<h3 align="center">
+Data Analyst | Business Analyst | BI Analyst | Product Analytics Enthusiast
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=som5511&label=Profile%20views&color=0e75b6&style=flat" alt="som5511" /> </p>
+<img align="right" alt="Data Analytics" width="400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me:
- <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently Looking For Internship<br><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate with Full Stack Developers<br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning React, Typescript and exploring Express,Prisma<br><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about  Full Stack  <br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=som5511&label=Profile%20Views&color=0e75b6&style=flat" alt="som5511" />
+</p>
 
-##  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somdeosingh/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() 
+---
 
+## 📊 About Me
 
+🔹 Currently working at **Danieli Corus India Pvt. Ltd.**
 
-## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Tech Stack  :
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23363636.svg?style=for-the-badge&logo=sql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+🔹 B.Tech Computer Science Graduate
 
-## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" /> GitHub Stats:
+🔹 Transitioning into **Data Analytics, Business Intelligence, Business Analysis, and Product Analytics**
 
-<a href="https://github.com/som5511/github-readme-stats"><img alt="Sidharth's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=som5511&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450" /></a>
-  <a href="https://github.com/som5511/github-readme-stats"><img alt="Som Deo Singh's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=som5511&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width ="350" /></a>
+🔹 Skilled in **SQL, Power BI, Excel, Python, DAX, Power Query, Data Visualization**
 
+🔹 Passionate about transforming raw data into actionable business insights
 
+🔹 Interested in Analytics, KPI Tracking, Product Metrics, Customer Behavior Analysis, and Dashboard Development
+
+🔹 Open to opportunities in:
+- Data Analyst
+- Business Analyst
+- BI Analyst
+- Product Analyst
+- Associate Product Manager
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somdeosingh/)
+
+---
+
+## 🛠️ Analytics & Technology Stack
+
+### Data Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-FFB000?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+
+### Programming
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+## 🚀 Featured Projects
+
+📌 Restaurant Analytics Dashboard (Power BI)
+
+- Analyzed 9,500+ restaurant records
+- Built KPI scorecards and interactive dashboards
+- Conducted city-wise and cuisine-wise performance analysis
+- Developed business recommendations using data insights
+
+📌 Credit Risk Analysis & Loan Default Prediction
+
+- Performed EDA on 32K+ financial records
+- Built machine learning models for loan risk assessment
+- Identified major factors influencing defaults
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=som5511&show_icons=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som5511&layout=compact&theme=react&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=som5511&theme=react&hide_border=true"/>
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sidharth200&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=som5511&theme=algolia&no-frame=true&margin-w=4)
+
+---
+
+## 📚 Currently Learning
+
+✔ Advanced SQL
+
+✔ Power BI & DAX
+
+✔ Product Analytics
+
+✔ Business Analysis
+
+✔ A/B Testing & KPI Design
+
+✔ Statistics for Data Analytics
+
+---
+
+### 💡 "Turning Data into Decisions."
